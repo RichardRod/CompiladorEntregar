@@ -1,0 +1,5 @@
+/Users/macbook/RiderProjects/Compilador/Compilador/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/macbook/RiderProjects/Compilador/Compilador/bin/Debug/Compilador.exe.mdb
+/Users/macbook/RiderProjects/Compilador/Compilador/bin/Debug/Compilador.exe
+/Users/macbook/RiderProjects/Compilador/Compilador/obj/Debug/Compilador.exe
+/Users/macbook/RiderProjects/Compilador/Compilador/obj/Debug/Compilador.exe.mdb
